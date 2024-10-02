@@ -31,10 +31,10 @@ Check out my portfolio to see my work: [vndjekornom.vercel.app](https://vndjekor
 
 ## 📫 How to reach me
 - Email: [vndjekornom@gmail.com](mailto:vndjekornom@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/v-ndjekornom)
+- LinkedIn: [linkedin.com/in/v-ndjekornom](linkedin.com/in/v-ndjekornom)
 
 ## ⚡ Fun fact
-I enjoy participating in coding challenges and contributing to open-source projects to continuously sharpen my skills!
+I enjoy learning new things and collaborate with people in order to sharpen my skills!
 
 <!--
 **ndjek1/ndjek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
